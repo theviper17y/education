@@ -1,2 +1,2 @@
-# education
+# Education
 My Education Works
